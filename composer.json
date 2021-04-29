@@ -1,5 +1,5 @@
  {
-  "name": "kviron/ajax-search",
+  "name": "kviron/wordpress-plugin-ajax-search",
   "type": "wordpress-plugin",
   "license" : "MIT",
   "minimum-stability": "stable",
